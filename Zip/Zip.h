@@ -16,4 +16,6 @@ FOUNDATION_EXPORT const unsigned char ZipVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <Zip/PublicHeader.h>
 
-
+#import "crypt.h"
+#import "ioapi.h"
+#import "unzip.h"
